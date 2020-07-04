@@ -7,7 +7,7 @@ de tarefas automáticas no ambiente de desenvolvimento.
 
 Nesse projeto foi possível gerar tarefas automáticas referentes ao build da aplicação.
 
-Tais como: minifição de arquivos html, javascript e css, criando código legível por navegadores 
+Tais como: minificação de arquivos html, javascript e css, criando código legível por navegadores 
 que não possuem suporte ao ECMASCRIPT em suas versões mais atuais, usando babel.js
 
 
