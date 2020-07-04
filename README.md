@@ -1,6 +1,6 @@
 # spa-gulp
 
-Esse é um projeto SinglePage Application baseado no Node.js e Gulp.js
+Esse é um projeto SinglePage Application.
 
 O objetivo é formar uma base de conhecimento sobre o Node e Gulp e entender o funcionamento
 de tarefas automáticas no ambiente de desenvolvimento.
