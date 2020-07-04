@@ -2,10 +2,14 @@
 
 Esse é um projeto SinglePage Application.
 
-O objetivo é formar uma base de conhecimento sobre o Node e Gulp e entender o funcionamento
+O objetivo era formar uma base de conhecimento sobre o Node.js e Gulp.js e entender o funcionamento
 de tarefas automáticas no ambiente de desenvolvimento.
 
-Nesse projeto foram aplicados os conhecimentos obtidos sobre Node.js e Gulp.js.
+Nesse projeto foi possível gerar tarefas automáticas referentes ao build da aplicação.
+
+Tais como: minifição de arquivos #html, #javascript e #css, criando código legível por navegadores 
+que não possuem suporte ao #ECMASCRIPT em suas versões mais atuais, usando #babel.js
+
 
 # Clone do projeto
 > git clone https://github.com/romarioarruda/spa-gulp.git
